@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33417.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthzServer", "AuthzServer\AuthzServer.csproj", "{FD0759F8-20D3-4892-B240-5DB19542AA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIddictClientDemo", "OpenIddictClientDemo\OpenIddictClientDemo.csproj", "{E09B79DE-0D6A-4D12-AC6B-DAB97A2F082E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD0759F8-20D3-4892-B240-5DB19542AA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0759F8-20D3-4892-B240-5DB19542AA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0759F8-20D3-4892-B240-5DB19542AA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0759F8-20D3-4892-B240-5DB19542AA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09B79DE-0D6A-4D12-AC6B-DAB97A2F082E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09B79DE-0D6A-4D12-AC6B-DAB97A2F082E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09B79DE-0D6A-4D12-AC6B-DAB97A2F082E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09B79DE-0D6A-4D12-AC6B-DAB97A2F082E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57BE0969-964B-4F54-BE2A-9C02080F41F2}
+	EndGlobalSection
+EndGlobal
